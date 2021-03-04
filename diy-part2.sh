@@ -15,4 +15,4 @@
 sed -i 's/192.168.1.1/192.168.0.253/g' package/base-files/files/bin/config_generate
 
 # 第三方
-git clone https://github.com/jefferymvp/luci-app-koolproxyR package/koolproxyR
+git clone https://github.com/godros/luci-app-godproxy.git package/luci-app-godproxy
